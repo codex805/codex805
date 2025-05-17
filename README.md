@@ -12,14 +12,37 @@
 
 
 
-#HI THERE I"AM CODEX ZONE 
+## 👨‍💻 About Me
 
-## 🚀 About Me
-I'm a passionate developer from Bangladesh 🇧🇩
+Hi there! I'm **AMK**, a passionate **Full Stack Web Developer** from **Mirpur 10, Dhaka, Bangladesh** 🇧🇩
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: email@example.com
+💻 I love building modern, responsive, and dynamic web applications using the latest technologies.
+
+---
+
+### 🔧 Technologies & Tools I Use:
+- 💡 Languages: JavaScript, TypeScript, HTML5, CSS3, PHP
+- 🧱 Frameworks: React, Node.js, Express.js, Laravel
+- 🗄️ Databases: MongoDB, MySQL, Firebase
+- ⚙️ Tools: Git, GitHub, VS Code, Figma, Postman
+- 🎨 Styling: Tailwind CSS, Bootstrap, Sass
+
+---
+
+### 🚀 Currently:
+- 🔭 I’m working on building personal projects and freelancing
+- 🌱 Learning Next.js and TypeScript more deeply
+- 📚 Exploring backend optimization techniques
+- 🧑‍🤝‍🧑 Open to collaboration on exciting full-stack projects
+
+---
+
+### 📫 How to Reach Me:
+- 📧 Email: your.email@example.com
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 💼 LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+
+---
 
 
