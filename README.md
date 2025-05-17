@@ -13,7 +13,8 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **AMK**, a passionate **Full Stack Web Developer** from **Mirpur 10, Dhaka, Bangladesh** 🇧🇩
+Hi there! I'm   codex Zone
+a passionate **Full Stack Web Developer** from **Mirpur 10, Dhaka, Bangladesh** 🇧🇩
 
 💻 I love building modern, responsive, and dynamic web applications using the latest technologies.
 
